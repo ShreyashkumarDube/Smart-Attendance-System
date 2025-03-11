@@ -12,8 +12,6 @@ manipulation tool, built on top of the Python programming language. \
 an image or video and based on the concept of features proposed by Paul Viola and Michael
 Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in
 2001. \
-○ Datetime - It’s a combination of date and time along with the attributes year, month, day,
-hour, minute, second, microsecond, and info. \
 ○ Face_Recognition - Recognize and manipulate faces from Python or the command line
 with the world’s simplest face recognition library. \
 ○ OpenCV - a library of programming functions primarily geared toward real-time
