@@ -36,7 +36,6 @@ computer vision.
 - pip install Pillow
 - pip install pytest-shutil
 - pip install python-csv
-- pip install yagmail
 4. py main.py 
 
 
