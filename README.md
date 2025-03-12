@@ -20,7 +20,7 @@ computer vision.
 ## Instructions to run:
 1. First download or clone the project
 2. Import the project to your favourit IDE
-3. Create an python enviroment
+3. Create a python enviroment
 4. Install all the packages
 5. Run the project using the command line or your IDE Run Button
 
