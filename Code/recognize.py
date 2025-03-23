@@ -4,7 +4,6 @@ import time
 import cv2
 import pandas as pd
 
-
 def recognize_attendence():
     # Create directories if they don't exist
     os.makedirs("StudentDetails", exist_ok=True)
@@ -37,7 +36,9 @@ def recognize_attendence():
     except Exception as e:
         print(f"Error reading StudentDetails.csv: {e}")
         return
-    
+
+
+            
     # Verify cascade file exists and use absolute path
     cascade_path = os.path.join(os.path.dirname(__file__), "haarcascade_frontalface_default.xml")
     if not os.path.exists(cascade_path):
